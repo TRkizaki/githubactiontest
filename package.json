@@ -1,0 +1,20 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "engines": {
+    "pnpm": "7.25.0",
+    "npm": "please_use_pnpm_instead"
+  },
+    "packageManager": "pnpm@7.20.0",
+  
+  "scripts": {
+    "app1": "pnpm -F \"app1\"",
+    "app2": "pnpm -F \"app2\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
